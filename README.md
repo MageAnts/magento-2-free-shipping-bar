@@ -2,10 +2,10 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Free Shipping Bar Extension</h2>
+				<h1>Magento 2 Free Shipping Bar Extension</h1>
 				<p>The<strong><a href="https://www.mageants.com/free-shipping-bar-for-magento-2.html">Magento 2 Free Shipping Bar extension</a></strong>  is the best way to attract customers. The plugin gives the best solution to improve the cart value along with accelerating the purchase rates. The free shipping bar module helps in increasing the profit of the store.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>The extension allows the display of the free shipping bar, which is left till their free shipping.</li>
 						<li>The tax has been excluded from the subtotal of the message bar.</li>
